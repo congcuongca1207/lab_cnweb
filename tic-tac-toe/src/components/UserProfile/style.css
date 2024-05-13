@@ -1,0 +1,8 @@
+.user-image {
+    width: 100px;
+}
+
+.active {
+    outline: 4px solid green;
+    border-radius: 50%;
+}
